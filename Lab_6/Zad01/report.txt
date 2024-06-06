@@ -1,0 +1,4 @@
+Number of processes: 1000
+Step width: 0.001000
+Total integral: 3.142592
+Elapsed time: 0.083105 seconds

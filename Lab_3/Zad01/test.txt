@@ -1,0 +1,1 @@
+It is the file to check if functions for lab3 work properly <3
